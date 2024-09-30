@@ -28,3 +28,13 @@ Team 2:
 Name:  Kendriya School
 Score: 110
 Overs played: 18
+'''
+a=print("Team 1:")
+b=input("Team Name:\n")
+c=input("score:\n")
+d=input("Overs played:\n")
+e=print("Team 2:")
+f=input("Team Name:\n")
+g=input("score:\n")
+h=input("Overs played:\n")
+print("match details:\n","team 1:\n","Name:\n",b,"\nscore:",c,"\novers played:",d,"\nteam 2:","\nName:",f,"\nscore:",g,"\novers played:",h)
